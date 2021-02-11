@@ -1,0 +1,10 @@
+{
+    "servers":{
+      "Lunar Network":{
+        "address":"lunar.gg"
+},	
+      "Mineman Network":{
+        "address":"n.Mineman.club"
+        }
+    }
+}
